@@ -1,0 +1,10 @@
+[Variables]
+BackgroundColor=30,30,44
+OuterLineColor=183,151,219
+PlayerColor=166,229,168
+TextColor=200,200,200
+TextLowerColor=120,120,120
+DividerColor=52,52,68
+Scale=0.8
+ASCII=0
+NOT_ASCII=1
